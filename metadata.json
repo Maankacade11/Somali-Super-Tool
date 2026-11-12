@@ -1,0 +1,6 @@
+{
+  "name": "Somali Super Toolkit",
+  "description": "Dhammaan qalabkaaga, hal meel. Qalab bilaash ah oo kuu fududaynaya shaqada, ganacsiga, waxbarashada iyo hawlaha maalinlaha ah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
